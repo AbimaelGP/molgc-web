@@ -1,0 +1,5 @@
+# Sólo para la implementación de referencia en Python (CLI y pruebas); la página web no los necesita.
+numpy>=1.24
+scipy>=1.10
+openpyxl>=3.1
+pytest

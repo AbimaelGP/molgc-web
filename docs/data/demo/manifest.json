@@ -1,0 +1,853 @@
+{
+"pair": [
+{
+"id": "xyz",
+"files": [
+{
+"name": "ciprofloxacin_M06.xyz",
+"url": "data/demo/xyz/ciprofloxacin_M06.xyz"
+},
+{
+"name": "ciprofloxacin_B3LYP.xyz",
+"url": "data/demo/xyz/ciprofloxacin_B3LYP.xyz"
+}
+]
+},
+{
+"id": "mixed",
+"files": [
+{
+"name": "Molecules/FLUOROQUINOLONES/ciprofloxacin/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/ciprofloxacin/Gaussian/M06/geometry.log.txt"
+},
+{
+"name": "Molecules/FLUOROQUINOLONES/ciprofloxacin/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/ciprofloxacin/Castep/PBE/geometry.castep.txt"
+}
+]
+}
+],
+"multi": [
+{
+"id": "FLUOROQUINOLONES/ciprofloxacin",
+"title": "Ciprofloxacin",
+"family": "FLUOROQUINOLONES",
+"files": [
+{
+"name": "Molecules/FLUOROQUINOLONES/ciprofloxacin/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/ciprofloxacin/Castep/LDA/geometry.castep.txt"
+},
+{
+"name": "Molecules/FLUOROQUINOLONES/ciprofloxacin/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/ciprofloxacin/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"name": "Molecules/FLUOROQUINOLONES/ciprofloxacin/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/ciprofloxacin/Castep/PBE/geometry.castep.txt"
+},
+{
+"name": "Molecules/FLUOROQUINOLONES/ciprofloxacin/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/ciprofloxacin/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"name": "Molecules/FLUOROQUINOLONES/ciprofloxacin/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/ciprofloxacin/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"name": "Molecules/FLUOROQUINOLONES/ciprofloxacin/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/ciprofloxacin/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"name": "Molecules/FLUOROQUINOLONES/ciprofloxacin/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/ciprofloxacin/Gaussian/M06/geometry.log.txt"
+}
+]
+},
+{
+"id": "FLUOROQUINOLONES/enoxacin",
+"title": "Enoxacin",
+"family": "FLUOROQUINOLONES",
+"files": [
+{
+"name": "Molecules/FLUOROQUINOLONES/enoxacin/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/enoxacin/Castep/LDA/geometry.castep.txt"
+},
+{
+"name": "Molecules/FLUOROQUINOLONES/enoxacin/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/enoxacin/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"name": "Molecules/FLUOROQUINOLONES/enoxacin/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/enoxacin/Castep/PBE/geometry.castep.txt"
+},
+{
+"name": "Molecules/FLUOROQUINOLONES/enoxacin/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/enoxacin/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"name": "Molecules/FLUOROQUINOLONES/enoxacin/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/enoxacin/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"name": "Molecules/FLUOROQUINOLONES/enoxacin/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/enoxacin/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"name": "Molecules/FLUOROQUINOLONES/enoxacin/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/enoxacin/Gaussian/M06/geometry.log.txt"
+}
+]
+},
+{
+"id": "FLUOROQUINOLONES/esparfloxacin",
+"title": "Esparfloxacin",
+"family": "FLUOROQUINOLONES",
+"files": [
+{
+"name": "Molecules/FLUOROQUINOLONES/esparfloxacin/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/esparfloxacin/Castep/LDA/geometry.castep.txt"
+},
+{
+"name": "Molecules/FLUOROQUINOLONES/esparfloxacin/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/esparfloxacin/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"name": "Molecules/FLUOROQUINOLONES/esparfloxacin/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/esparfloxacin/Castep/PBE/geometry.castep.txt"
+},
+{
+"name": "Molecules/FLUOROQUINOLONES/esparfloxacin/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/esparfloxacin/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"name": "Molecules/FLUOROQUINOLONES/esparfloxacin/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/esparfloxacin/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"name": "Molecules/FLUOROQUINOLONES/esparfloxacin/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/esparfloxacin/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"name": "Molecules/FLUOROQUINOLONES/esparfloxacin/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/esparfloxacin/Gaussian/M06/geometry.log.txt"
+}
+]
+},
+{
+"id": "NITROFURANS/Furazolidone",
+"title": "Furazolidone",
+"family": "NITROFURANS",
+"files": [
+{
+"name": "Molecules/NITROFURANS/Furazolidone/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Furazolidone/Castep/LDA/geometry.castep.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Furazolidone/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Furazolidone/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Furazolidone/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Furazolidone/Castep/PBE/geometry.castep.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Furazolidone/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Furazolidone/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Furazolidone/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/NITROFURANS/Furazolidone/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Furazolidone/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/NITROFURANS/Furazolidone/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Furazolidone/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/NITROFURANS/Furazolidone/Gaussian/M06/geometry.log.txt"
+}
+]
+},
+{
+"id": "NITROFURANS/Nifuroxime",
+"title": "Nifuroxime",
+"family": "NITROFURANS",
+"files": [
+{
+"name": "Molecules/NITROFURANS/Nifuroxime/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nifuroxime/Castep/LDA/geometry.castep.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Nifuroxime/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nifuroxime/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Nifuroxime/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nifuroxime/Castep/PBE/geometry.castep.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Nifuroxime/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nifuroxime/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Nifuroxime/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/NITROFURANS/Nifuroxime/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Nifuroxime/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/NITROFURANS/Nifuroxime/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Nifuroxime/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/NITROFURANS/Nifuroxime/Gaussian/M06/geometry.log.txt"
+}
+]
+},
+{
+"id": "NITROFURANS/Nitrofurantoin",
+"title": "Nitrofurantoin",
+"family": "NITROFURANS",
+"files": [
+{
+"name": "Molecules/NITROFURANS/Nitrofurantoin/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurantoin/Castep/LDA/geometry.castep.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Nitrofurantoin/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurantoin/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Nitrofurantoin/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurantoin/Castep/PBE/geometry.castep.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Nitrofurantoin/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurantoin/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Nitrofurantoin/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurantoin/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Nitrofurantoin/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurantoin/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Nitrofurantoin/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurantoin/Gaussian/M06/geometry.log.txt"
+}
+]
+},
+{
+"id": "NITROFURANS/Nitrofurazone",
+"title": "Nitrofurazone",
+"family": "NITROFURANS",
+"files": [
+{
+"name": "Molecules/NITROFURANS/Nitrofurazone/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurazone/Castep/LDA/geometry.castep.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Nitrofurazone/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurazone/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Nitrofurazone/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurazone/Castep/PBE/geometry.castep.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Nitrofurazone/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurazone/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Nitrofurazone/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurazone/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Nitrofurazone/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurazone/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"name": "Molecules/NITROFURANS/Nitrofurazone/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurazone/Gaussian/M06/geometry.log.txt"
+}
+]
+},
+{
+"id": "QUINOLONES/cinoxacin",
+"title": "Cinoxacin",
+"family": "QUINOLONES",
+"files": [
+{
+"name": "Molecules/QUINOLONES/cinoxacin/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/cinoxacin/Castep/LDA/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/cinoxacin/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/cinoxacin/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/cinoxacin/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/cinoxacin/Castep/PBE/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/cinoxacin/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/cinoxacin/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/cinoxacin/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/QUINOLONES/cinoxacin/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"name": "Molecules/QUINOLONES/cinoxacin/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/cinoxacin/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"name": "Molecules/QUINOLONES/cinoxacin/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/cinoxacin/Gaussian/M06/geometry.log.txt"
+}
+]
+},
+{
+"id": "QUINOLONES/nalidixic_acid",
+"title": "Nalidixic acid",
+"family": "QUINOLONES",
+"files": [
+{
+"name": "Molecules/QUINOLONES/nalidixic_acid/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/nalidixic_acid/Castep/LDA/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/nalidixic_acid/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/nalidixic_acid/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/nalidixic_acid/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/nalidixic_acid/Castep/PBE/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/nalidixic_acid/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/nalidixic_acid/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/nalidixic_acid/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/QUINOLONES/nalidixic_acid/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"name": "Molecules/QUINOLONES/nalidixic_acid/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/nalidixic_acid/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"name": "Molecules/QUINOLONES/nalidixic_acid/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/nalidixic_acid/Gaussian/M06/geometry.log.txt"
+}
+]
+},
+{
+"id": "QUINOLONES/oxolinic_acid",
+"title": "Oxolinic acid",
+"family": "QUINOLONES",
+"files": [
+{
+"name": "Molecules/QUINOLONES/oxolinic_acid/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/oxolinic_acid/Castep/LDA/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/oxolinic_acid/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/oxolinic_acid/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/oxolinic_acid/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/oxolinic_acid/Castep/PBE/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/oxolinic_acid/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/oxolinic_acid/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/oxolinic_acid/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/QUINOLONES/oxolinic_acid/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"name": "Molecules/QUINOLONES/oxolinic_acid/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/oxolinic_acid/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"name": "Molecules/QUINOLONES/oxolinic_acid/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/oxolinic_acid/Gaussian/M06/geometry.log.txt"
+}
+]
+},
+{
+"id": "QUINOLONES/pipemidic_acid",
+"title": "Pipemidic acid",
+"family": "QUINOLONES",
+"files": [
+{
+"name": "Molecules/QUINOLONES/pipemidic_acid/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/pipemidic_acid/Castep/LDA/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/pipemidic_acid/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/pipemidic_acid/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/pipemidic_acid/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/pipemidic_acid/Castep/PBE/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/pipemidic_acid/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/pipemidic_acid/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/pipemidic_acid/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/QUINOLONES/pipemidic_acid/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"name": "Molecules/QUINOLONES/pipemidic_acid/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/pipemidic_acid/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"name": "Molecules/QUINOLONES/pipemidic_acid/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/pipemidic_acid/Gaussian/M06/geometry.log.txt"
+}
+]
+},
+{
+"id": "QUINOLONES/piromidic_acid",
+"title": "Piromidic acid",
+"family": "QUINOLONES",
+"files": [
+{
+"name": "Molecules/QUINOLONES/piromidic_acid/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/piromidic_acid/Castep/LDA/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/piromidic_acid/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/piromidic_acid/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/piromidic_acid/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/piromidic_acid/Castep/PBE/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/piromidic_acid/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/piromidic_acid/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/piromidic_acid/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/QUINOLONES/piromidic_acid/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"name": "Molecules/QUINOLONES/piromidic_acid/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/piromidic_acid/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"name": "Molecules/QUINOLONES/piromidic_acid/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/piromidic_acid/Gaussian/M06/geometry.log.txt"
+}
+]
+},
+{
+"id": "QUINOLONES/rosoxacin",
+"title": "Rosoxacin",
+"family": "QUINOLONES",
+"files": [
+{
+"name": "Molecules/QUINOLONES/rosoxacin/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/rosoxacin/Castep/LDA/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/rosoxacin/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/rosoxacin/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/rosoxacin/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/rosoxacin/Castep/PBE/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/rosoxacin/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/rosoxacin/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"name": "Molecules/QUINOLONES/rosoxacin/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/QUINOLONES/rosoxacin/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"name": "Molecules/QUINOLONES/rosoxacin/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/rosoxacin/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"name": "Molecules/QUINOLONES/rosoxacin/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/rosoxacin/Gaussian/M06/geometry.log.txt"
+}
+]
+}
+],
+"study": [
+{
+"member": "Molecules/FLUOROQUINOLONES/ciprofloxacin/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/ciprofloxacin/Castep/LDA/geometry.castep.txt"
+},
+{
+"member": "Molecules/FLUOROQUINOLONES/ciprofloxacin/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/ciprofloxacin/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"member": "Molecules/FLUOROQUINOLONES/ciprofloxacin/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/ciprofloxacin/Castep/PBE/geometry.castep.txt"
+},
+{
+"member": "Molecules/FLUOROQUINOLONES/ciprofloxacin/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/ciprofloxacin/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"member": "Molecules/FLUOROQUINOLONES/ciprofloxacin/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/ciprofloxacin/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"member": "Molecules/FLUOROQUINOLONES/ciprofloxacin/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/ciprofloxacin/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"member": "Molecules/FLUOROQUINOLONES/ciprofloxacin/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/ciprofloxacin/Gaussian/M06/geometry.log.txt"
+},
+{
+"member": "Molecules/FLUOROQUINOLONES/enoxacin/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/enoxacin/Castep/LDA/geometry.castep.txt"
+},
+{
+"member": "Molecules/FLUOROQUINOLONES/enoxacin/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/enoxacin/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"member": "Molecules/FLUOROQUINOLONES/enoxacin/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/enoxacin/Castep/PBE/geometry.castep.txt"
+},
+{
+"member": "Molecules/FLUOROQUINOLONES/enoxacin/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/enoxacin/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"member": "Molecules/FLUOROQUINOLONES/enoxacin/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/enoxacin/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"member": "Molecules/FLUOROQUINOLONES/enoxacin/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/enoxacin/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"member": "Molecules/FLUOROQUINOLONES/enoxacin/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/enoxacin/Gaussian/M06/geometry.log.txt"
+},
+{
+"member": "Molecules/FLUOROQUINOLONES/esparfloxacin/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/esparfloxacin/Castep/LDA/geometry.castep.txt"
+},
+{
+"member": "Molecules/FLUOROQUINOLONES/esparfloxacin/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/esparfloxacin/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"member": "Molecules/FLUOROQUINOLONES/esparfloxacin/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/esparfloxacin/Castep/PBE/geometry.castep.txt"
+},
+{
+"member": "Molecules/FLUOROQUINOLONES/esparfloxacin/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/esparfloxacin/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"member": "Molecules/FLUOROQUINOLONES/esparfloxacin/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/esparfloxacin/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"member": "Molecules/FLUOROQUINOLONES/esparfloxacin/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/esparfloxacin/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"member": "Molecules/FLUOROQUINOLONES/esparfloxacin/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/FLUOROQUINOLONES/esparfloxacin/Gaussian/M06/geometry.log.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Furazolidone/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Furazolidone/Castep/LDA/geometry.castep.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Furazolidone/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Furazolidone/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Furazolidone/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Furazolidone/Castep/PBE/geometry.castep.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Furazolidone/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Furazolidone/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Furazolidone/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/NITROFURANS/Furazolidone/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Furazolidone/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/NITROFURANS/Furazolidone/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Furazolidone/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/NITROFURANS/Furazolidone/Gaussian/M06/geometry.log.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nifuroxime/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nifuroxime/Castep/LDA/geometry.castep.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nifuroxime/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nifuroxime/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nifuroxime/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nifuroxime/Castep/PBE/geometry.castep.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nifuroxime/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nifuroxime/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nifuroxime/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/NITROFURANS/Nifuroxime/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nifuroxime/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/NITROFURANS/Nifuroxime/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nifuroxime/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/NITROFURANS/Nifuroxime/Gaussian/M06/geometry.log.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nitrofurantoin/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurantoin/Castep/LDA/geometry.castep.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nitrofurantoin/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurantoin/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nitrofurantoin/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurantoin/Castep/PBE/geometry.castep.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nitrofurantoin/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurantoin/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nitrofurantoin/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurantoin/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nitrofurantoin/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurantoin/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nitrofurantoin/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurantoin/Gaussian/M06/geometry.log.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nitrofurazone/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurazone/Castep/LDA/geometry.castep.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nitrofurazone/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurazone/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nitrofurazone/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurazone/Castep/PBE/geometry.castep.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nitrofurazone/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurazone/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nitrofurazone/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurazone/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nitrofurazone/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurazone/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"member": "Molecules/NITROFURANS/Nitrofurazone/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/NITROFURANS/Nitrofurazone/Gaussian/M06/geometry.log.txt"
+},
+{
+"member": "Molecules/QUINOLONES/cinoxacin/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/cinoxacin/Castep/LDA/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/cinoxacin/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/cinoxacin/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/cinoxacin/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/cinoxacin/Castep/PBE/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/cinoxacin/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/cinoxacin/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/cinoxacin/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/QUINOLONES/cinoxacin/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"member": "Molecules/QUINOLONES/cinoxacin/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/cinoxacin/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"member": "Molecules/QUINOLONES/cinoxacin/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/cinoxacin/Gaussian/M06/geometry.log.txt"
+},
+{
+"member": "Molecules/QUINOLONES/nalidixic_acid/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/nalidixic_acid/Castep/LDA/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/nalidixic_acid/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/nalidixic_acid/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/nalidixic_acid/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/nalidixic_acid/Castep/PBE/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/nalidixic_acid/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/nalidixic_acid/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/nalidixic_acid/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/QUINOLONES/nalidixic_acid/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"member": "Molecules/QUINOLONES/nalidixic_acid/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/nalidixic_acid/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"member": "Molecules/QUINOLONES/nalidixic_acid/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/nalidixic_acid/Gaussian/M06/geometry.log.txt"
+},
+{
+"member": "Molecules/QUINOLONES/oxolinic_acid/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/oxolinic_acid/Castep/LDA/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/oxolinic_acid/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/oxolinic_acid/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/oxolinic_acid/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/oxolinic_acid/Castep/PBE/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/oxolinic_acid/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/oxolinic_acid/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/oxolinic_acid/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/QUINOLONES/oxolinic_acid/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"member": "Molecules/QUINOLONES/oxolinic_acid/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/oxolinic_acid/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"member": "Molecules/QUINOLONES/oxolinic_acid/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/oxolinic_acid/Gaussian/M06/geometry.log.txt"
+},
+{
+"member": "Molecules/QUINOLONES/pipemidic_acid/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/pipemidic_acid/Castep/LDA/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/pipemidic_acid/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/pipemidic_acid/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/pipemidic_acid/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/pipemidic_acid/Castep/PBE/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/pipemidic_acid/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/pipemidic_acid/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/pipemidic_acid/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/QUINOLONES/pipemidic_acid/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"member": "Molecules/QUINOLONES/pipemidic_acid/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/pipemidic_acid/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"member": "Molecules/QUINOLONES/pipemidic_acid/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/pipemidic_acid/Gaussian/M06/geometry.log.txt"
+},
+{
+"member": "Molecules/QUINOLONES/piromidic_acid/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/piromidic_acid/Castep/LDA/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/piromidic_acid/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/piromidic_acid/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/piromidic_acid/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/piromidic_acid/Castep/PBE/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/piromidic_acid/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/piromidic_acid/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/piromidic_acid/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/QUINOLONES/piromidic_acid/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"member": "Molecules/QUINOLONES/piromidic_acid/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/piromidic_acid/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"member": "Molecules/QUINOLONES/piromidic_acid/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/piromidic_acid/Gaussian/M06/geometry.log.txt"
+},
+{
+"member": "Molecules/QUINOLONES/rosoxacin/Castep/LDA/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/rosoxacin/Castep/LDA/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/rosoxacin/Castep/LDA+OBS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/rosoxacin/Castep/LDA+OBS/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/rosoxacin/Castep/PBE/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/rosoxacin/Castep/PBE/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/rosoxacin/Castep/PBE+TS/geometry.castep",
+"url": "data/demo/Molecules/QUINOLONES/rosoxacin/Castep/PBE+TS/geometry.castep.txt"
+},
+{
+"member": "Molecules/QUINOLONES/rosoxacin/FHI-aims/PBE/geometry.out",
+"url": "data/demo/Molecules/QUINOLONES/rosoxacin/FHI-aims/PBE/geometry.out.txt"
+},
+{
+"member": "Molecules/QUINOLONES/rosoxacin/Gaussian/B3LYP/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/rosoxacin/Gaussian/B3LYP/geometry.log.txt"
+},
+{
+"member": "Molecules/QUINOLONES/rosoxacin/Gaussian/M06/geometry.log",
+"url": "data/demo/Molecules/QUINOLONES/rosoxacin/Gaussian/M06/geometry.log.txt"
+}
+]
+}

@@ -1,0 +1,496 @@
+{
+ "FLUOROQUINOLONES/ciprofloxacin": {
+  "LDA-Castep": {
+   "MAE": 0.016528821692451363,
+   "rmsd": 0.4171083216171229,
+   "nb": 45,
+   "elem_consistency": 1.0
+  },
+  "LDA+OBS-Castep": {
+   "MAE": 0.0168597233240908,
+   "rmsd": 0.4166889761823348,
+   "nb": 45,
+   "elem_consistency": 1.0
+  },
+  "PBE-Castep": {
+   "MAE": 0.005397252642098131,
+   "rmsd": 0.3851741716593564,
+   "nb": 45,
+   "elem_consistency": 1.0
+  },
+  "PBE+TS-Castep": {
+   "MAE": 0.005397252642098131,
+   "rmsd": 0.3851741716593564,
+   "nb": 45,
+   "elem_consistency": 1.0
+  },
+  "PBE-FHI-aims": {
+   "MAE": 0.005745242101125239,
+   "rmsd": 0.11810956898207862,
+   "nb": 45,
+   "elem_consistency": 1.0
+  },
+  "B3LYP-Gaussian": {
+   "MAE": 0.006050211829664394,
+   "rmsd": 0.546526384382602,
+   "nb": 45,
+   "elem_consistency": 1.0
+  }
+ },
+ "FLUOROQUINOLONES/enoxacin": {
+  "LDA-Castep": {
+   "MAE": 0.01690270119203429,
+   "rmsd": 0.6273645688142419,
+   "nb": 42,
+   "elem_consistency": 1.0
+  },
+  "LDA+OBS-Castep": {
+   "MAE": 0.01706629805771604,
+   "rmsd": 0.6235822218654831,
+   "nb": 42,
+   "elem_consistency": 1.0
+  },
+  "PBE-Castep": {
+   "MAE": 0.006001954074555867,
+   "rmsd": 0.6489364558783406,
+   "nb": 42,
+   "elem_consistency": 1.0
+  },
+  "PBE+TS-Castep": {
+   "MAE": 0.006001954074555867,
+   "rmsd": 0.6489364558783406,
+   "nb": 42,
+   "elem_consistency": 1.0
+  },
+  "PBE-FHI-aims": {
+   "MAE": 0.006380456130492104,
+   "rmsd": 0.6548325446857887,
+   "nb": 42,
+   "elem_consistency": 1.0
+  },
+  "B3LYP-Gaussian": {
+   "MAE": 0.005692265642114082,
+   "rmsd": 0.1866326909034598,
+   "nb": 42,
+   "elem_consistency": 1.0
+  }
+ },
+ "FLUOROQUINOLONES/esparfloxacin": {
+  "LDA-Castep": {
+   "MAE": 0.01653681519246743,
+   "rmsd": 0.28578883802907534,
+   "nb": 53,
+   "elem_consistency": 1.0
+  },
+  "LDA+OBS-Castep": {
+   "MAE": 0.016685721930499955,
+   "rmsd": 0.2891253361543017,
+   "nb": 53,
+   "elem_consistency": 1.0
+  },
+  "PBE-Castep": {
+   "MAE": 0.005234082920422552,
+   "rmsd": 0.26550622125168827,
+   "nb": 53,
+   "elem_consistency": 1.0
+  },
+  "PBE+TS-Castep": {
+   "MAE": 0.005234082920422552,
+   "rmsd": 0.26550622125168827,
+   "nb": 53,
+   "elem_consistency": 1.0
+  },
+  "PBE-FHI-aims": {
+   "MAE": 0.006238949455351352,
+   "rmsd": 0.20704294982736338,
+   "nb": 53,
+   "elem_consistency": 1.0
+  },
+  "B3LYP-Gaussian": {
+   "MAE": 0.005995484040683801,
+   "rmsd": 0.39187687593784115,
+   "nb": 53,
+   "elem_consistency": 1.0
+  }
+ },
+ "NITROFURANS/Furazolidone": {
+  "LDA-Castep": {
+   "MAE": 0.01764850541448515,
+   "rmsd": 0.33200141175036885,
+   "nb": 24,
+   "elem_consistency": 1.0
+  },
+  "LDA+OBS-Castep": {
+   "MAE": 0.017765453655643183,
+   "rmsd": 0.3317611030136375,
+   "nb": 24,
+   "elem_consistency": 1.0
+  },
+  "PBE-Castep": {
+   "MAE": 0.005564792026689284,
+   "rmsd": 0.3442512575168049,
+   "nb": 24,
+   "elem_consistency": 1.0
+  },
+  "PBE+TS-Castep": {
+   "MAE": 0.005564792026689284,
+   "rmsd": 0.3442512575168049,
+   "nb": 24,
+   "elem_consistency": 1.0
+  },
+  "PBE-FHI-aims": {
+   "MAE": 0.010007547304961978,
+   "rmsd": 0.07851810964863945,
+   "nb": 24,
+   "elem_consistency": 1.0
+  },
+  "B3LYP-Gaussian": {
+   "MAE": 0.008797511970557689,
+   "rmsd": 0.07183089558293841,
+   "nb": 24,
+   "elem_consistency": 1.0
+  }
+ },
+ "NITROFURANS/Nifuroxime": {
+  "LDA-Castep": {
+   "MAE": 0.01777934493035105,
+   "rmsd": 0.059474421692698815,
+   "nb": 15,
+   "elem_consistency": 1.0
+  },
+  "LDA+OBS-Castep": {
+   "MAE": 0.018236094989066733,
+   "rmsd": 0.0623745059605232,
+   "nb": 15,
+   "elem_consistency": 1.0
+  },
+  "PBE-Castep": {
+   "MAE": 0.005036063177293334,
+   "rmsd": 0.18124947663833432,
+   "nb": 15,
+   "elem_consistency": 1.0
+  },
+  "PBE+TS-Castep": {
+   "MAE": 0.005036063177293334,
+   "rmsd": 0.18124947663833432,
+   "nb": 15,
+   "elem_consistency": 1.0
+  },
+  "PBE-FHI-aims": {
+   "MAE": 0.011216912055890446,
+   "rmsd": 0.03693745190739062,
+   "nb": 15,
+   "elem_consistency": 1.0
+  },
+  "B3LYP-Gaussian": {
+   "MAE": 0.012761510714657098,
+   "rmsd": 0.026407991018888122,
+   "nb": 15,
+   "elem_consistency": 1.0
+  }
+ },
+ "NITROFURANS/Nitrofurantoin": {
+  "LDA-Castep": {
+   "MAE": 0.0173130100339542,
+   "rmsd": 0.16475706848437294,
+   "nb": 24,
+   "elem_consistency": 1.0
+  },
+  "LDA+OBS-Castep": {
+   "MAE": 0.01760748017557952,
+   "rmsd": 0.1733001005120384,
+   "nb": 24,
+   "elem_consistency": 1.0
+  },
+  "PBE-Castep": {
+   "MAE": 0.004644811785804402,
+   "rmsd": 0.18674286839040477,
+   "nb": 24,
+   "elem_consistency": 1.0
+  },
+  "PBE+TS-Castep": {
+   "MAE": 0.004729081816194951,
+   "rmsd": 0.18623481917914556,
+   "nb": 24,
+   "elem_consistency": 1.0
+  },
+  "PBE-FHI-aims": {
+   "MAE": 0.009111253288255655,
+   "rmsd": 0.04334685894106464,
+   "nb": 24,
+   "elem_consistency": 1.0
+  },
+  "B3LYP-Gaussian": {
+   "MAE": 0.0075242251291689115,
+   "rmsd": 0.02071491452146037,
+   "nb": 24,
+   "elem_consistency": 1.0
+  }
+ },
+ "NITROFURANS/Nitrofurazone": {
+  "LDA-Castep": {
+   "MAE": 0.016067052924120428,
+   "rmsd": 0.11743838613070022,
+   "nb": 20,
+   "elem_consistency": 1.0
+  },
+  "LDA+OBS-Castep": {
+   "MAE": 0.0164176461056851,
+   "rmsd": 0.11683782045313912,
+   "nb": 20,
+   "elem_consistency": 1.0
+  },
+  "PBE-Castep": {
+   "MAE": 0.007291601991710084,
+   "rmsd": 0.0946710337735418,
+   "nb": 20,
+   "elem_consistency": 1.0
+  },
+  "PBE+TS-Castep": {
+   "MAE": 0.005611390963467344,
+   "rmsd": 0.21303976174962466,
+   "nb": 20,
+   "elem_consistency": 1.0
+  },
+  "PBE-FHI-aims": {
+   "MAE": 0.010206950244636238,
+   "rmsd": 0.14447207650919397,
+   "nb": 20,
+   "elem_consistency": 1.0
+  },
+  "B3LYP-Gaussian": {
+   "MAE": 0.007834882168300361,
+   "rmsd": 0.020079858443989476,
+   "nb": 20,
+   "elem_consistency": 1.0
+  }
+ },
+ "QUINOLONES/cinoxacin": {
+  "LDA-Castep": {
+   "MAE": 0.01611345748252971,
+   "rmsd": 0.05110618306377756,
+   "nb": 31,
+   "elem_consistency": 1.0
+  },
+  "LDA+OBS-Castep": {
+   "MAE": 0.016268690984536757,
+   "rmsd": 0.06910931138853771,
+   "nb": 31,
+   "elem_consistency": 1.0
+  },
+  "PBE-Castep": {
+   "MAE": 0.00555107019589225,
+   "rmsd": 0.08164935785384972,
+   "nb": 31,
+   "elem_consistency": 1.0
+  },
+  "PBE+TS-Castep": {
+   "MAE": 0.005541339625017203,
+   "rmsd": 0.08164308226794068,
+   "nb": 31,
+   "elem_consistency": 1.0
+  },
+  "PBE-FHI-aims": {
+   "MAE": 0.008026523733668214,
+   "rmsd": 0.08921526783626836,
+   "nb": 31,
+   "elem_consistency": 1.0
+  },
+  "B3LYP-Gaussian": {
+   "MAE": 0.006102077201155409,
+   "rmsd": 0.30563800746432007,
+   "nb": 31,
+   "elem_consistency": 1.0
+  }
+ },
+ "QUINOLONES/nalidixic_acid": {
+  "LDA-Castep": {
+   "MAE": 0.015724228291788708,
+   "rmsd": 0.744971556185374,
+   "nb": 30,
+   "elem_consistency": 1.0
+  },
+  "LDA+OBS-Castep": {
+   "MAE": 0.01581960406123506,
+   "rmsd": 0.744789558457379,
+   "nb": 30,
+   "elem_consistency": 1.0
+  },
+  "PBE-Castep": {
+   "MAE": 0.004772902487479043,
+   "rmsd": 0.8744892812546062,
+   "nb": 30,
+   "elem_consistency": 1.0
+  },
+  "PBE+TS-Castep": {
+   "MAE": 0.004772902487479043,
+   "rmsd": 0.8744892812546062,
+   "nb": 30,
+   "elem_consistency": 1.0
+  },
+  "PBE-FHI-aims": {
+   "MAE": 0.005797494994923739,
+   "rmsd": 0.0374578499882566,
+   "nb": 30,
+   "elem_consistency": 1.0
+  },
+  "B3LYP-Gaussian": {
+   "MAE": 0.0048236145134070785,
+   "rmsd": 0.9140412990471024,
+   "nb": 30,
+   "elem_consistency": 1.0
+  }
+ },
+ "QUINOLONES/oxolinic_acid": {
+  "LDA-Castep": {
+   "MAE": 0.017523725097653823,
+   "rmsd": 0.09827807850996835,
+   "nb": 32,
+   "elem_consistency": 1.0
+  },
+  "LDA+OBS-Castep": {
+   "MAE": 0.017946782273348557,
+   "rmsd": 0.10249826858446542,
+   "nb": 32,
+   "elem_consistency": 1.0
+  },
+  "PBE-Castep": {
+   "MAE": 0.0061624827402016295,
+   "rmsd": 0.10786146668500185,
+   "nb": 32,
+   "elem_consistency": 1.0
+  },
+  "PBE+TS-Castep": {
+   "MAE": 0.0061624827402016295,
+   "rmsd": 0.10786146668500185,
+   "nb": 32,
+   "elem_consistency": 1.0
+  },
+  "PBE-FHI-aims": {
+   "MAE": 0.007495407883153074,
+   "rmsd": 0.03849740976607568,
+   "nb": 32,
+   "elem_consistency": 1.0
+  },
+  "B3LYP-Gaussian": {
+   "MAE": 0.00579615442220947,
+   "rmsd": 0.04248070822478757,
+   "nb": 32,
+   "elem_consistency": 1.0
+  }
+ },
+ "QUINOLONES/pipemidic_acid": {
+  "LDA-Castep": {
+   "MAE": 0.014627269806856233,
+   "rmsd": 0.41747633960146374,
+   "nb": 41,
+   "elem_consistency": 1.0
+  },
+  "LDA+OBS-Castep": {
+   "MAE": 0.014689953546752215,
+   "rmsd": 0.4174620064675867,
+   "nb": 41,
+   "elem_consistency": 1.0
+  },
+  "PBE-Castep": {
+   "MAE": 0.005192383470363735,
+   "rmsd": 0.41841174274318826,
+   "nb": 41,
+   "elem_consistency": 1.0
+  },
+  "PBE+TS-Castep": {
+   "MAE": 0.005192383470363735,
+   "rmsd": 0.41841174274318826,
+   "nb": 41,
+   "elem_consistency": 1.0
+  },
+  "PBE-FHI-aims": {
+   "MAE": 0.005834900109798666,
+   "rmsd": 0.23955180102471044,
+   "nb": 41,
+   "elem_consistency": 1.0
+  },
+  "B3LYP-Gaussian": {
+   "MAE": 0.00542957596187445,
+   "rmsd": 0.14465612705190045,
+   "nb": 41,
+   "elem_consistency": 1.0
+  }
+ },
+ "QUINOLONES/piromidic_acid": {
+  "LDA-Castep": {
+   "MAE": 0.014276575636876024,
+   "rmsd": 0.11742930072953299,
+   "nb": 39,
+   "elem_consistency": 1.0
+  },
+  "LDA+OBS-Castep": {
+   "MAE": 0.014287474534626438,
+   "rmsd": 0.1201726749089263,
+   "nb": 39,
+   "elem_consistency": 1.0
+  },
+  "PBE-Castep": {
+   "MAE": 0.004860752721271132,
+   "rmsd": 0.11115377694108901,
+   "nb": 39,
+   "elem_consistency": 1.0
+  },
+  "PBE+TS-Castep": {
+   "MAE": 0.004860752721271132,
+   "rmsd": 0.11115377694108901,
+   "nb": 39,
+   "elem_consistency": 1.0
+  },
+  "PBE-FHI-aims": {
+   "MAE": 0.005773162060232882,
+   "rmsd": 0.030494001405825928,
+   "nb": 39,
+   "elem_consistency": 1.0
+  },
+  "B3LYP-Gaussian": {
+   "MAE": 0.005273997267672468,
+   "rmsd": 0.06852561991533433,
+   "nb": 39,
+   "elem_consistency": 1.0
+  }
+ },
+ "QUINOLONES/rosoxacin": {
+  "LDA-Castep": {
+   "MAE": 0.014732579091361215,
+   "rmsd": 0.08342296788816062,
+   "nb": 38,
+   "elem_consistency": 1.0
+  },
+  "LDA+OBS-Castep": {
+   "MAE": 0.014992833546425522,
+   "rmsd": 0.1741542798295454,
+   "nb": 38,
+   "elem_consistency": 1.0
+  },
+  "PBE-Castep": {
+   "MAE": 0.005038634199256922,
+   "rmsd": 0.07852434158440437,
+   "nb": 38,
+   "elem_consistency": 1.0
+  },
+  "PBE+TS-Castep": {
+   "MAE": 0.005038634199256922,
+   "rmsd": 0.07852434158440437,
+   "nb": 38,
+   "elem_consistency": 1.0
+  },
+  "PBE-FHI-aims": {
+   "MAE": 0.005472128058103519,
+   "rmsd": 0.07725797502316664,
+   "nb": 38,
+   "elem_consistency": 1.0
+  },
+  "B3LYP-Gaussian": {
+   "MAE": 0.004565248553603507,
+   "rmsd": 0.10484929369483867,
+   "nb": 38,
+   "elem_consistency": 1.0
+  }
+ }
+}
